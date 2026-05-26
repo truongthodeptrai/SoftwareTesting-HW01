@@ -23,9 +23,9 @@ Join our dynamic team, located in six countries (Switzerland, Serbia, Vietnam, F
 - A degree in IT, Computer Science, or a related technical field.
 - 4+ years of experience in a QA or software testing role.
 - Good hands-on experience with:
--- API testing using Postman for REST-based designs.
--- Testing UI responsive web application (preferably React).
--- Database testing (e.g., SQL, PostgreSQL).
+  + API testing using Postman for REST-based designs.
+  + Testing UI responsive web application (preferably React).
+  + Database testing (e.g., SQL, PostgreSQL).
 - Understanding of automation testing concepts and ability to do automation testing using Cypress/Playwright.
 - Familiarity with Agile methodologies and an Agile mindset.
 - A pragmatic and proactive approach to problem-solving.
