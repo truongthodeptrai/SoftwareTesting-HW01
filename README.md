@@ -1,4 +1,3 @@
-# SoftwareTesting-HW01
 <img width="1920" height="971" alt="Screenshot_20260526_074541" src="https://github.com/user-attachments/assets/980da1b5-1683-4034-982e-ae0fe6ecc4ef" />
 
 # Link
@@ -31,3 +30,18 @@ Join our dynamic team, located in six countries (Switzerland, Serbia, Vietnam, F
 - A pragmatic and proactive approach to problem-solving.
 - A strong sense of ownership and accountability for the product’s quality.
 - Willingness to take on new challenges proactively.
+
+Nice-to-have qualifications:
+- Strong understanding of basic programming concepts.
+- Experience with CI/CD pipelines (e.g., CircleCI).
+- Experience with mobile testing on iOS and/or Android.
+- Knowledge of security testing principles.
+
+# Salary
+
+Depending on the company
+
+# AI Impact Analysis
+
+"To do"
+
