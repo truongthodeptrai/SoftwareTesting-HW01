@@ -220,9 +220,34 @@ To-do
 
 # Link
 
+https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=qc-engineer-tester-qa-qc-for-web-up-to-1500-evolus-planv-5225
+
 # Job description
 
+Participate in the development of exciting new server and client applications for sports team management that already have millions of users in the USA, UK and the EC. Work closely with top athletes and coaches from NBC Sports to create the next generation of applications to make sports teams perform far better. While NBC will help you better understand the details of competitive sports, our highly experienced engineering team will help you significantly improve your ability to develop world class enterprise applications. Your job will be to "own" a piece of the application, the size will depend on your experience. You will work closely with our USA based customer, our UI design, our senior technical team, QA, and the deployment team to do your job. We work at "Start-up Company" speed and you will learn and grow your skills very quickly.
+
 # Required skills
+
+Technical requirements:
+- Firm knowledge in writing and executing test cases and test scripts
+- Minimum 2 years of experience in manual testing for enterprise web-based system
+- Good knowledge in Software Testing process, testing activities, testing types.
+- Experience in analyzing requirements, developing and executing test cases.
+- Strong problem-solving and analytical skills, with the ability to identify defects
+- Working with Issue Tracking Systems, such as JIRA is required
+- Strong English reading and writing skills
+- Cross-browser, cross-platform and responsive web testing experience is a plus
+- Performance or security testing is a plus
+- Having experience working with e-commerce systems is an advantage.
+
+Behavioral requirements:
+- Carefulness and logic thinking
+- Able to work under pressure, hardworking, proactive, and responsible
+- Good communication and teamwork skills
+- Enjoy working in a fast paced team environment
+- Enjoy learning new technological approaches, and quickly applying these to your work
+- Love to exceed customer expectations
+- Self-motivated and self directed.
 
 # AI Impact
 
@@ -232,9 +257,35 @@ To-do
 
 # Link
 
+https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=automation-tester-qa-qc-abbank-0039
+
 # Job description
 
+- Xây dựng dụng cụ cho automation test và viết script cho các api/rest và application test.
+- Định nghĩa, phát triển, triển khai và duy trì script cho automation test
+- Quản lý phiên bản (source control) cho automation test script
+- Tham gia các cuộc họp về yêu cầu dự án để hiểu mục đích của dự án. Đóng góp thông tin về tính khả thi của dự án trên phương diện testing. Ước lượng thời gian testing cho dự án
+- Đưa ra phương án testing, phát triển các chiến lược automation test và các framework cho automation test…
+- Thiết kế test case và viết automation scripts.
+- Phối hợp với các thành viên khác trong nhóm để hiểu về mục tiêu của dự án, thu thập các yêu cầu liên quan đến automation, thiết kế automated test và giải quyết các vấn đề liên quan đến testing.
+- Phối hợp với nhóm Manual testing để đảm bảo phạm vi kiểm tra toàn diện.
+- Tham gia thực hiện Manual test khi cần thiết.
+- Luôn cập nhật các xu hướng và tiến bộ của ngành về các công cụ và kỹ thuật về automation testing.
+
 # Required skills
+
+- Trình độ Cử nhân trở lên chuyên ngành về Công nghệ thông tin, Khoa học máy tính hoặc các chuyên ngành liên quan.
+- Có trên 02 năm kinh nghiệm trong automation testing cho api/rest hoặc mobile hoặc web
+- Ưu tiên ứng viên có kinh nghiệm làm việc với Agile/Scrum
+- Thông thạo trong việc viết automation test script với các ngôn ngữ như Java, C#.net, Python, Javascript, etc..
+- Am hiểu về các giai đoạn trong việc kiểm thử phần mềm như: kiểm thử tính năng, kiểm thử tích hợp, kiểm thử tự động, kiểm thử white-box/black box, và kiểm thử load/performance;
+- Kinh nghiệm sử dụng các bộ công cụ, framework như Katalon, Postman, Rest Assured, SoapUI, Selenium Webdriver, Mobile automation test, Jmeter, Jenkins, etc là một lợi thế;
+- Kinh nghiệm quản lý phiên bản (version control) (như Git) và CI/CD
+- Đào tạo, mentoring/ coaching các nhân viên trong team và dự án về các quy trình test driven development, automation testing liên quan đến SIT, UAT, Compliance Test, Performance test etc.
+- Cẩn thận, tỉ mỉ, cần cù, nhanh nhẹn, có khả năng làm việc độc lập hoặc nhóm với cường độ cao.
+- Tinh thần không ngại thay đổi tool/ framework/ ngôn ngữ
+
+# Salary
 
 # AI Impact
 
@@ -244,11 +295,98 @@ To-do
 
 # Link
 
+https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=senior-qa-qc-automation-tester-playwright-python-bosch-global-software-technologies-company-limited-3146
+
+# Job description
+
+This position will be employed through Bosch’s external vendor under an initial one-year contract. Contract renewal is highly possible and will be considered based on performance and business needs.
+
+Build the Future of Intelligent Workflows
+
+We’re revolutionizing how Bosch delivers quality.
+
+Our global engineering team is building the next generation of solutions, and robust, automated testing is the bedrock of our success. We're leveraging cutting-edge tools like Playwright and Python to create a test infrastructure that's not just reactive, but proactive, intelligent, and scalable for 500,000+ users worldwide. This is a pivotal moment as we accelerate our shift-left testing strategy, making quality an inherent part of our CI/CD pipelines.
+
+We’re seeking a Senior Automation Tester (Playwright/ Python) who combines deep technical expertise with a relentless pursuit of excellence. This role demands a strong understanding of complex software architectures, experience in leading automation initiatives, and responsibility for designing and implementing comprehensive test frameworks.
+
+# Required skills
+
+- 5+ years of experience in software testing, with strong focus on automation testing
+- Hands-on experience with Playwright and Python
+- Good understanding of CI/CD and modern testing practices
+- Good English communication skills
+- Strong analytical and problem-solving mindset
+
+# Salary
+
+# AI Impact
+
+# 8. FPT Software
+
+<img width="1920" height="967" alt="Screenshot_20260526_080605" src="https://github.com/user-attachments/assets/e3ec41c8-80e2-461f-a040-809f37eb5a16" />
+
+# Link
+
+https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=process-quality-assurance-pqa-qa-qc-fpt-software-3809
+
+# Job description
+
+ABOUT FPT SOFTWARE
+
+FPT Software, a subsidiary of FPT Group, is a leading global IT service provider headquartered in Vietnam. With 33,000+ employees in 88 offices across 30 countries, we serve 1,100+ clients, including 96 Fortune 500 companies.
+
+We believe diversity fuels innovation and strive to create an inclusive workplace where talents of all backgrounds thrive. We welcome expatriates and international professionals to bring fresh perspectives and help shape the future of technology.
+
+RESPONSIBILITIES
+
+- Control project process compliance and perform audits during the product development process.
+- Coordinate with the project to create related reports.
+- Report project status to Project Manager and Quality Assurance Manager.
+- Implement and follow common programs of FQC (Fsoft Quality Center) for the projects undertaken.
+- Participate in product quality assessment and review quality reports before sending to customers
+- Participate in quality assurance activities (Final inspection, check quality gate) of project products before delivering to customers
+
+# Required skills
+
+- Ability to analyze data, synthesize and report.
+- Have knowledge of the process.
+- Agility, enthusiastic and eager to learn.
+- Can withstand pressure of work.
+- Can communicate with many parties to promote working.
+- Have Excel skills.
+- Have knowledge about CMMi.
+- Foreign language: minimum IELTS 7.0 (or equivalent TOEIC), minimum JP N2.
+- Graduated from IT or foreign language university.
+
+# Salary
+
+# AI Impact
+
+# 9. Pizza Hut Digital & Technology
+
+<img width="1920" height="972" alt="Screenshot_20260526_080639" src="https://github.com/user-attachments/assets/7ca807b9-17ca-4bbf-aeb1-c00e61b75e20" />
+
+# Link
+
 # Job description
 
 # Required skills
 
 # AI Impact
+
+# 10. Netcompany
+
+<img width="1920" height="972" alt="Screenshot_20260526_080701" src="https://github.com/user-attachments/assets/ca0927c5-9f5d-49fa-b2ed-e5435d92a6e0" />
+
+# Link
+
+# Job description
+
+# Required skills
+
+# AI Impact
+
+
 
 
 
