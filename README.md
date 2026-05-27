@@ -368,9 +368,47 @@ RESPONSIBILITIES
 
 # Link
 
+https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=senior-lead-qa-engineer-qe-qc-automation-pizza-hut-digital-technology-3057
+
 # Job description
 
+We are seeking an experienced Test Lead to own and drive the testing strategy and quality practices for the Byte by Yum! Commerce Platform. In this role, you will lead the testing discipline across globally distributed engineering teams and ensure our e-commerce platform consistently delivers reliable, scalable, and high-quality digital experiences to millions of customers worldwide.
+
+As the Test Lead, you will define and implement the overall quality and testing strategy, guide the automation approach, and establish engineering best practices across web and mobile platforms. You will partner closely with engineering, product, and DevOps teams to embed quality throughout the software development lifecycle and enable fast, confident releases in a high-transaction environment.
+
+This role requires deep technical expertise in modern testing frameworks, strong leadership in automation strategy, and experience operating within complex, large-scale e-commerce platforms.
+
+RESPONSIBILITIES:
+- Define and drive the overall testing strategy and quality standards for the platform.
+- Lead the automation strategy, ensuring scalable and maintainable test frameworks across web and mobile applications.
+- Establish best practices for functional, integration, end-to-end, and performance testing.
+- Establish quality standards, testing guidelines, and best practices across engineering teams.
+- Collaborate with engineering, product, and DevOps teams to embed quality into the CI/CD pipeline and development lifecycle.
+- Provide technical leadership and mentorship to QA and engineering teams across globally distributed environments.
+- Oversee test planning, execution, and reporting to ensure high levels of release confidence and platform reliability.
+- Continuously evaluate and improve testing tools, frameworks, and processes to support platform growth and scalability.
+- Lead defect management processes, ensuring issues are properly prioritized, tracked, and resolved.
+
 # Required skills
+
+- Bachelor's degree in computer science, or related technical field.
+- 8+ years of experience in software quality assurance, with at least 3 years in a senior test role supporting large-scale e-commerce or high-volume - consumer platforms.
+- Proven experience leading testing strategies and quality initiatives in complex software platforms.
+- Strong background in test automation frameworks and modern testing methodologies.
+- Experience working with large-scale, high-transaction e-commerce systems.
+- Ability to collaborate effectively across engineering, product, and DevOps teams.
+- Strong leadership, communication, and problem-solving skills in fast-paced, agile environments.
+- Strong problem-solving skills and a passion for delivering high-quality software.
+- Ability to collaborate effectively across distributed global teams.
+- Strong spoken and written English for international collaboration.
+
+Nice to Have:
+
+- Familiarity with Lambda Test for cross-browser and cross-device testing at scale.
+- ISTQB or other relevant QA certification.
+- Knowledge of performance or load testing tools.
+
+# Salary
 
 # AI Impact
 
@@ -380,9 +418,33 @@ RESPONSIBILITIES
 
 # Link
 
+https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=manual-tester-qa-qc-english-netcompany-1931
+
 # Job description
 
+- Analyze and understand business and technical requirements and work with clients across different domains and industries
+- Collaborate in project teams to test developed applications in a structured and successful way
+- Develop, execute and review test cases based on functional, non-functional, technical and usability requirements
+- Manage and report on your own test deliverables and test execution
+- Create and manage defects along with evaluating severity and impact on the solution and scope
+- Take responsibility for certifying the quality of the solution
+- Work and collaborate in an agile international environment with experienced and skilled colleagues in Vietnam and Europe
+- Plan and organize your own work and accurately report issues and progress in a timely manner
+- Identify areas for own personal development
+
 # Required skills
+
+- Bachelor’s or Master’s degree within a relevant IT specialization
+- Good English skills both in writing and verbally
+- Experience from a similar position
+- Good understanding of software testing theory
+- Hands on experience in applying manual software testing methodologies
+- Experience in using tools for test management, tracking defects, capture of test evidence and analyzing data
+- Open towards and able to quickly learn new technologies
+- Effectively estimate work and produce deliverables on time
+- ISTQB certificate is a plus, but not required
+
+# Salary
 
 # AI Impact
 
