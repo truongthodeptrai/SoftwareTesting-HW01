@@ -18,7 +18,7 @@ We are looking for QA Engineers to help us shape the future of the Swiss automot
 
 Join our dynamic team, located in six countries (Switzerland, Serbia, Vietnam, France, Germany, and India), where creativity thrives. Together, we tackle challenges, celebrate successes, and keep learning and growing.
 
-# Skill Requirement
+# Required skills
 
 - Fluency in English, both written and spoken.
 - A degree in IT, Computer Science, or a related technical field.
@@ -59,9 +59,7 @@ https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8
 
 RESPONSIBILITIES
 
-- Collaborate with software developers and quality assurance teams to
-
-understand project requirements and functionality
+- Collaborate with software developers and quality assurance teams to understand project requirements and functionality
 - Design, develop, and execute automated test scripts using industry-standard
 automation tools
 - Identify and report software defects in a clear and concise manner
@@ -70,7 +68,7 @@ troubleshoot issues
 - Contribute to the continuous improvement of the automation testing process
 - Design, create, and manage automation test cases using AI technologies
 
-# Required skill
+# Required skills
 
 You properly are a potential candidate for this position, if you have:
 
@@ -99,6 +97,8 @@ You will be a strong candidate if you have
 # Salary
 
 $1,100 - 1,500
+
+# AI Impact Analysis
 
 # 3. DeliGroup
 
@@ -152,6 +152,8 @@ https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8
 # Salary
 
 Depending on your skills
+
+# AI Impact Analysis
 
 # 4. PNJ
 
@@ -210,7 +212,7 @@ Must-have:
 
 $1,000 - 1,500
 
-# AI Impact ...
+# AI Impact Analysis
 
 To-do
 
@@ -249,7 +251,7 @@ Behavioral requirements:
 - Love to exceed customer expectations
 - Self-motivated and self directed.
 
-# AI Impact
+# AI Impact Analysis
 
 # 6. AB Bank
 
@@ -287,7 +289,7 @@ https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8
 
 # Salary
 
-# AI Impact
+# AI Impact Analysis
 
 # 7. Bosch Global Software Technologies Company
 
@@ -319,7 +321,7 @@ We’re seeking a Senior Automation Tester (Playwright/ Python) who combines dee
 
 # Salary
 
-# AI Impact
+# AI Impact Analysis
 
 # 8. FPT Software
 
@@ -360,7 +362,7 @@ RESPONSIBILITIES
 
 # Salary
 
-# AI Impact
+# AI Impact Analysis
 
 # 9. Pizza Hut Digital & Technology
 
@@ -410,7 +412,7 @@ Nice to Have:
 
 # Salary
 
-# AI Impact
+# AI Impact Analysis
 
 # 10. Netcompany
 
@@ -446,7 +448,7 @@ https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8
 
 # Salary
 
-# AI Impact
+# AI Impact Analysis
 
 
 
