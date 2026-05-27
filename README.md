@@ -193,13 +193,62 @@ https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8
  
 # Required skills
 
+Bằng cấp: Cử Nhân trở lên các chuyên ngành CNTT & Phần mềm
 
+Chuyên ngành:  Khoa Học Máy Tính, Công Nghệ Thông Tin, hoặc các ngành có liên quan
 
+Must-have: 
 
+- Tối thiểu 04 năm kinh nghiệm trong lĩnh vực Software Testing Automation ứng dụng AI trong testing
+- Chủ động, năng động, trách nhiệm cao, kiên định bám mục tiêu
+- Có khả năng xử lý nhiều dự án song song, biết sắp xếp ưu tiên theo tiến độ công việc
+- Có tư duy end-user, cẩn thận trong công việc
+- Giao tiếp tốt, phối hợp hiệu quả với các team liên quan.
+- Có khả năng phân tích các rủi ro hệ thống
 
+# Salary
 
+$1,000 - 1,500
 
+# AI Impact ...
 
+To-do
+
+# 5. QC Engineer
+
+<img width="1920" height="972" alt="Screenshot_20260526_080251" src="https://github.com/user-attachments/assets/1c1690b9-355b-44f2-abe5-ea99f4f098e7" />
+
+# Link
+
+# Job description
+
+# Required skills
+
+# AI Impact
+
+# 6. AB Bank
+
+<img width="1920" height="973" alt="Screenshot_20260526_080304" src="https://github.com/user-attachments/assets/b7adcd2a-8eea-4063-8336-c30aaebe9b28" />
+
+# Link
+
+# Job description
+
+# Required skills
+
+# AI Impact
+
+# 7. Bosch Global Software Technologies Company
+
+<img width="1920" height="970" alt="Screenshot_20260526_080544" src="https://github.com/user-attachments/assets/8747e2e2-ad2b-47ee-b927-31c706a0eb82" />
+
+# Link
+
+# Job description
+
+# Required skills
+
+# AI Impact
 
 
 
