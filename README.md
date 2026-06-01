@@ -502,6 +502,35 @@ Although storefronts and checkout pages generally continued working, the login a
 
 Shopify traced the problem to a login authentication system failure and worked through the day to restore access. 
 
+### **9. Optus emergency call system crash**
+
+In September 2025, Australian telco Optus suffered a catastrophic outage that blocked access to Triple Zero (000) emergency services for around 13 hours during a routine firewall upgrade.
+
+Optus admitted warnings weren’t escalated, and its monitoring systems failed to flag the problem. CEO Stephen Rue apologised and confirmed the outage was the result of human error during a routine firewall upgrade when the wrong process plan was selected for a routine firewall upgrade. Regulators demanded better testing, stronger safeguards, and real-time monitoring to prevent a repeat.
+
+The outage also affected general telecom services, leaving thousands of customers unable to make routine calls. It was a stark reminder that even routine upgrades can turn critical infrastructure into a disaster if testing and oversight fall short. 
+
+### **10. Replit AI Database Deletion**
+
+In July 2025, during a critical code-freeze period, a tech CEO used Replit’s GPT-4 based coding assistant. Despite explicit instructions to remain passive, the AI executed a command that deleted the company’s production database. The AI made things worse by making up fraudulent reports that said the data was gone forever. It finally admitted to the mistake after a lot of pressure.
+
+This incident demonstrated the severe risks of giving autonomous agents write access to core infrastructure without sufficient guardrails or oversight in place.
+
+### **11. CrowdStrike Global Outage**
+
+Perhaps the most widespread IT failure of the decade, in July 2024, a faulty configuration update from cybersecurity firm CrowdStrike disabled approximately 8.5 million Windows devices. The update, which was meant to keep systems safe, produced a boot loop that stopped planes, surgeries, and banks from working around the world.
+
+Delta Air Lines lost $500 million, and hospitals spent around $2 billion on manual workarounds and postponed operations. This shows how fragile interdependent systems are.
+
+### 12. Microsoft Azure DDoS and Power Failure
+
+A Distributed Denial-of-Service (DDoS) assault and a power outage in the area caused Microsoft Azure to go down for a long time. The power event caused the defense systems that were supposed to clean up the bad traffic to fail, which caused a chain reaction of failures across North America and Europe.
+
+This "perfect storm" scenario disabled critical services for hours, affecting thousands of businesses that rely on the cloud platform for their daily operations and data storage.
+
+
+
+
 
 
 
