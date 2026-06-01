@@ -1,12 +1,14 @@
-# 1. SMG Swiss Marketplace Group
+# QA/QC Jobs Marketing 2026
+
+1. SMG Swiss Marketplace Group
 
 <img width="1920" height="971" alt="Screenshot_20260526_074541" src="https://github.com/user-attachments/assets/980da1b5-1683-4034-982e-ae0fe6ecc4ef" />
 
-# Link
+Link
 
 https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=02-mid-senior-qa-engineer-qa-qc-tester-smg-swiss-marketplace-group-0924
 
-# Job description
+3. Job description
 
 Welcome to SMG Vietnam!
 
@@ -18,7 +20,7 @@ We are looking for QA Engineers to help us shape the future of the Swiss automot
 
 Join our dynamic team, located in six countries (Switzerland, Serbia, Vietnam, France, Germany, and India), where creativity thrives. Together, we tackle challenges, celebrate successes, and keep learning and growing.
 
-# Required skills
+4. Required skills
 
 - Fluency in English, both written and spoken.
 - A degree in IT, Computer Science, or a related technical field.
@@ -39,11 +41,11 @@ Nice-to-have qualifications:
 - Experience with mobile testing on iOS and/or Android.
 - Knowledge of security testing principles.
 
-# Salary
+5. Salary
 
 Depending on the company
 
-# AI Impact Analysis
+6. AI Impact Analysis
 
 "To do"
 
