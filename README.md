@@ -39,7 +39,7 @@ Nice-to-have qualifications:
 - Experience with mobile testing on iOS and/or Android.
 - Knowledge of security testing principles.
 
-**Salary**: Depending on your skills
+**Salary**: $1,500 - 3,000
 
 **AI Impact Analysis**
 
@@ -233,6 +233,8 @@ Behavioral requirements:
 - Love to exceed customer expectations
 - Self-motivated and self directed.
 
+**Salary**: Up to $1,500
+
 **AI Impact Analysis**
 
 ### **6. AB Bank**
@@ -267,7 +269,7 @@ Behavioral requirements:
 - Cẩn thận, tỉ mỉ, cần cù, nhanh nhẹn, có khả năng làm việc độc lập hoặc nhóm với cường độ cao.
 - Tinh thần không ngại thay đổi tool/ framework/ ngôn ngữ
 
-**Salary**: Depending on your skills
+**Salary**: $1,000 - 2,000
 
 **AI Impact Analysis**
 
