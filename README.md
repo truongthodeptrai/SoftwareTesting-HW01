@@ -1,6 +1,6 @@
 # QA/QC Jobs Marketing 2026
 
-## **1. SMG Swiss Marketplace Group**
+### **1. SMG Swiss Marketplace Group**
 
 <img width="1920" height="971" alt="Screenshot_20260526_074541" src="https://github.com/user-attachments/assets/980da1b5-1683-4034-982e-ae0fe6ecc4ef" />
 
@@ -45,7 +45,7 @@ Nice-to-have qualifications:
 
 "To do"
 
-## **2. Nakivo**
+### **2. Nakivo**
 
 <img width="1920" height="969" alt="Screenshot_20260526_080142" src="https://github.com/user-attachments/assets/b3d59695-9a9a-48c5-b789-ae5c64823e6a" />
 
@@ -92,7 +92,7 @@ You will be a strong candidate if you have
 
 **AI Impact Analysis**
 
-## **3. DeliGroup**
+### **3. DeliGroup**
 
 <img width="1920" height="969" alt="Screenshot_20260526_080225" src="https://github.com/user-attachments/assets/95332302-9098-4bae-a1b3-f2670e805cd9" />
 
@@ -143,7 +143,7 @@ Preffered skills:
 
 **AI Impact Analysis**
 
-## **4. PNJ**
+### **4. PNJ**
 
 <img width="1920" height="970" alt="Screenshot_20260526_080235" src="https://github.com/user-attachments/assets/dfdcee43-d3f0-4bf6-b9e6-aec1df2f61fc" />
 
@@ -200,7 +200,7 @@ Must-have:
 
 To-do
 
-## **5. QC Engineer**
+### **5. QC Engineer**
 
 <img width="1920" height="972" alt="Screenshot_20260526_080251" src="https://github.com/user-attachments/assets/1c1690b9-355b-44f2-abe5-ea99f4f098e7" />
 
@@ -235,7 +235,7 @@ Behavioral requirements:
 
 **AI Impact Analysis**
 
-## **6. AB Bank**
+### **6. AB Bank**
 
 <img width="1920" height="973" alt="Screenshot_20260526_080304" src="https://github.com/user-attachments/assets/b7adcd2a-8eea-4063-8336-c30aaebe9b28" />
 
@@ -271,7 +271,7 @@ Behavioral requirements:
 
 **AI Impact Analysis**
 
-## **7. Bosch Global Software Technologies Company**
+### **7. Bosch Global Software Technologies Company**
 
 <img width="1920" height="970" alt="Screenshot_20260526_080544" src="https://github.com/user-attachments/assets/8747e2e2-ad2b-47ee-b927-31c706a0eb82" />
 
@@ -297,11 +297,11 @@ We’re seeking a Senior Automation Tester (Playwright/ Python) who combines dee
 - Good English communication skills
 - Strong analytical and problem-solving mindset
 
-**Salary*8
+**Salary**: Depending on your skills
 
 **AI Impact Analysis**
 
-## **8. FPT Software**
+### **8. FPT Software**
 
 <img width="1920" height="967" alt="Screenshot_20260526_080605" src="https://github.com/user-attachments/assets/e3ec41c8-80e2-461f-a040-809f37eb5a16" />
 
@@ -340,7 +340,7 @@ RESPONSIBILITIES
 
 **AI Impact Analysis**
 
-## **9. Pizza Hut Digital & Technology**
+### **9. Pizza Hut Digital & Technology**
 
 <img width="1920" height="972" alt="Screenshot_20260526_080639" src="https://github.com/user-attachments/assets/7ca807b9-17ca-4bbf-aeb1-c00e61b75e20" />
 
@@ -388,7 +388,7 @@ Nice to Have:
 
 **AI Impact Analysis**
 
-## **10. Netcompany**
+### **10. Netcompany**
 
 <img width="1920" height="972" alt="Screenshot_20260526_080701" src="https://github.com/user-attachments/assets/ca0927c5-9f5d-49fa-b2ed-e5435d92a6e0" />
 
