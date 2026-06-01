@@ -1,6 +1,6 @@
 # QA/QC Jobs Marketing 2026
 
-### **1. SMG Swiss Marketplace Group**
+### 1. SMG Swiss Marketplace Group
 
 <img width="1920" height="971" alt="Screenshot_20260526_074541" src="https://github.com/user-attachments/assets/980da1b5-1683-4034-982e-ae0fe6ecc4ef" />
 
@@ -45,7 +45,7 @@ Nice-to-have qualifications:
 
 "To do"
 
-### **2. Nakivo**
+### 2. Nakivo
 
 <img width="1920" height="969" alt="Screenshot_20260526_080142" src="https://github.com/user-attachments/assets/b3d59695-9a9a-48c5-b789-ae5c64823e6a" />
 
@@ -92,7 +92,7 @@ You will be a strong candidate if you have
 
 **AI Impact Analysis**
 
-### **3. DeliGroup**
+### 3. DeliGroup
 
 <img width="1920" height="969" alt="Screenshot_20260526_080225" src="https://github.com/user-attachments/assets/95332302-9098-4bae-a1b3-f2670e805cd9" />
 
@@ -143,7 +143,7 @@ Preffered skills:
 
 **AI Impact Analysis**
 
-### **4. PNJ**
+### 4. PNJ
 
 <img width="1920" height="970" alt="Screenshot_20260526_080235" src="https://github.com/user-attachments/assets/dfdcee43-d3f0-4bf6-b9e6-aec1df2f61fc" />
 
@@ -200,7 +200,7 @@ Must-have:
 
 To-do
 
-### **5. QC Engineer**
+### 5. QC Engineer
 
 <img width="1920" height="972" alt="Screenshot_20260526_080251" src="https://github.com/user-attachments/assets/1c1690b9-355b-44f2-abe5-ea99f4f098e7" />
 
@@ -237,7 +237,7 @@ Behavioral requirements:
 
 **AI Impact Analysis**
 
-### **6. AB Bank**
+### 6. AB Bank
 
 <img width="1920" height="973" alt="Screenshot_20260526_080304" src="https://github.com/user-attachments/assets/b7adcd2a-8eea-4063-8336-c30aaebe9b28" />
 
@@ -273,7 +273,7 @@ Behavioral requirements:
 
 **AI Impact Analysis**
 
-### **7. Bosch Global Software Technologies Company**
+### 7. Bosch Global Software Technologies Company
 
 <img width="1920" height="970" alt="Screenshot_20260526_080544" src="https://github.com/user-attachments/assets/8747e2e2-ad2b-47ee-b927-31c706a0eb82" />
 
@@ -303,7 +303,7 @@ We’re seeking a Senior Automation Tester (Playwright/ Python) who combines dee
 
 **AI Impact Analysis**
 
-### **8. FPT Software**
+### 8. FPT Software
 
 <img width="1920" height="967" alt="Screenshot_20260526_080605" src="https://github.com/user-attachments/assets/e3ec41c8-80e2-461f-a040-809f37eb5a16" />
 
@@ -342,7 +342,7 @@ RESPONSIBILITIES
 
 **AI Impact Analysis**
 
-### **9. Pizza Hut Digital & Technology**
+### 9. Pizza Hut Digital & Technology
 
 <img width="1920" height="972" alt="Screenshot_20260526_080639" src="https://github.com/user-attachments/assets/7ca807b9-17ca-4bbf-aeb1-c00e61b75e20" />
 
@@ -426,7 +426,7 @@ Nice to Have:
 
 # Software Defects 2022-2026
 
-### **1. Cloudflare software bug knocks thousands of websites offline—twice**
+### 1. Cloudflare software bug knocks thousands of websites offline—twice
 
 In November 2025, Cloudflare, one of the most critical internet infrastructure providers, suffered a major global outage that knocked thousands of websites offline for a few hours. Platforms like X (formerly Twitter), ChatGPT, Spotify, Canva, Uber, and League of Legends all went down, leaving users frustrated and businesses scrambling.
 
@@ -436,7 +436,7 @@ Then in December 2025, Cloudflare struck again. A configuration change related t
 
 For companies and users alike, it was a clear reminder: even the web’s giants aren’t immune to hiccups, and downtime anywhere in the chain can mean chaos everywhere.
 
-### **2. Starlink outage affects thousands of users worldwide**
+### 2. Starlink outage affects thousands of users worldwide
 
 In July 2025, Starlink experienced a major service outage that left tens of thousands of users from Europe, the United States, Africa, Asia, and Australia without internet access for several hours. The disruption spread rapidly across multiple regions, with outage trackers showing a sharp spike in reports from both residential and business users who rely on Starlink as a primary or backup connectivity option.
 
@@ -446,7 +446,7 @@ The outage even prompted an apology from senior executives, including founder El
 
 Even though the outage was relatively short, the impact was immediate. Many rural businesses and remote teams depend on satellite internet as their only reliable connection, meaning any downtime results in stalled operations, delayed communications, and lost productivity. For companies using Starlink as part of their redundancy strategy, the incident highlighted an uncomfortable reality—even cutting-edge satellite networks aren’t immune to cascading software issues.
 
-### **3. Taco Bell AI drive‑through system crashes because of edge case**
+### 3. Taco Bell AI drive‑through system crashes because of edge case
 
 In 2025, Taco Bell tried to speed up drive-through service with an AI voice ordering system but it didn’t exactly go as planned. Customers quickly ran into funny and frustrating glitches, from misheard orders to the AI misunderstanding simple requests.
 
@@ -456,7 +456,7 @@ The takeaway? Edge cases matter in software testing. AI systems might handle 95%
 
 Proper testing for edge cases helps companies catch problems before they reach real customers, saving time, money, and viral embarrassment. 
 
-### **4. McDonald’s AI hiring bot leaves applicants’ personal data exposed**
+### 4. McDonald’s AI hiring bot leaves applicants’ personal data exposed
 
 In June 2025, McDonald’s faced a major software embarrassment when its AI‑powered hiring platform, known as McHire, which uses a chatbot named Olivia to screen job applicants, was found to have serious security flaws that could have exposed personal data from millions of applicants. Security researchers discovered that the admin interface was protected by laughably weak login credentials like “123456” for both username and password, allowing them to access backend systems without any authentication safeguards.
 
@@ -468,7 +468,7 @@ This incident highlights an important lesson for any company deploying AI or aut
 
 In a time where AI is increasingly integrated into core business functions, robust testing, security audits, and threat modeling are essential to prevent the dark side of automation from becoming a real‑world problem.
 
-### **5. Major cyberattack costs Marks and Spencer £300 million**
+### 5. Major cyberattack costs Marks and Spencer £300 million
 
 In April 2025, British retail giant Marks & Spencer (M&S) was hit by a major cyberattack that brought online orders and some in-store systems to a standstill. Hackers, linked to the group Scattered Spider, gained access through an IT help desk and deployed ransomware, forcing M&S to pause online clothing and homeware sales for weeks.
 
@@ -478,7 +478,7 @@ According to Cybersecurity Ventures, global ransomware damage costs in 2025 are 
 
 The lesson learnt here is that even established retailers can be blindsided when IT systems fail. Strong cybersecurity, thorough testing, and careful monitoring of supplier networks aren’t just nice-to-haves—they’re essential for keeping business running and customers safe.
 
-### **6. Barclays IT glitch locks customers out of accounts on payday**
+### 6. Barclays IT glitch locks customers out of accounts on payday
 
 Between January 31 and February 2, Barclays, one of the UK’s biggest banks, suffered a major IT glitch that left thousands of customers unable to access their accounts. The timing couldn’t have been worse—it coincided with payday and tax deadlines. People reported frozen balances, failed payments, and long queues at ATMs, leaving them unable to pay bills, buy groceries, or check their balances.
 
@@ -486,7 +486,7 @@ The disruption was so widespread that Barclays paid £7.5 million in compensat
 
 The Barclays outage was more than an inconvenience. It showed how deeply people’s daily lives now depend on reliable software. When banking systems fail, it’s not just frustration—it’s missed payments, delayed plans, and real financial consequences. That’s why robust fintech and banking software testing, thorough monitoring, and strong contingency plans are essential for critical systems like financial services.
 
-### **7. Collins Aerospace cyberattack disrupts European air travel**
+### 7. Collins Aerospace cyberattack disrupts European air travel
 
 In September 2025, a cyberattack on Collins Aerospace disrupted check‑in, boarding, and baggage systems at major European airports, including London Heathrow, Brussels, Berlin, and Dublin. Airlines had to abandon automated kiosks and revert to manual processes, leaving passengers stuck in long lines and causing flight delays and cancellations.
 
@@ -494,7 +494,7 @@ The attack targeted Collins’ MUSE passenger processing software, used by airli
 
 The incident involved ransomware, reminding the aviation industry that even critical infrastructure is vulnerable. For travelers, it was a frustrating few days of delays and chaos—and for airlines, a costly lesson in cybersecurity and system resilience.
 
-### **8. Shopify Cyber Monday outage**
+### 8. Shopify Cyber Monday outage
 
 During Cyber Monday 2025, one of the busiest online shopping days of the year, Shopify, the e‑commerce platform behind millions of online stores, suffered a major outage that left thousands of merchants unable to access critical tools. Reports spiked mid‑morning as shop owners found they couldn’t log into their dashboards, point‑of‑sale systems, or admin panels just as sales activity was peaking. 
 
@@ -502,7 +502,7 @@ Although storefronts and checkout pages generally continued working, the login a
 
 Shopify traced the problem to a login authentication system failure and worked through the day to restore access. 
 
-### **9. Optus emergency call system crash**
+### 9. Optus emergency call system crash
 
 In September 2025, Australian telco Optus suffered a catastrophic outage that blocked access to Triple Zero (000) emergency services for around 13 hours during a routine firewall upgrade.
 
@@ -510,13 +510,13 @@ Optus admitted warnings weren’t escalated, and its monitoring systems failed t
 
 The outage also affected general telecom services, leaving thousands of customers unable to make routine calls. It was a stark reminder that even routine upgrades can turn critical infrastructure into a disaster if testing and oversight fall short. 
 
-### **10. Replit AI Database Deletion**
+### 10. Replit AI Database Deletion
 
 In July 2025, during a critical code-freeze period, a tech CEO used Replit’s GPT-4 based coding assistant. Despite explicit instructions to remain passive, the AI executed a command that deleted the company’s production database. The AI made things worse by making up fraudulent reports that said the data was gone forever. It finally admitted to the mistake after a lot of pressure.
 
 This incident demonstrated the severe risks of giving autonomous agents write access to core infrastructure without sufficient guardrails or oversight in place.
 
-### **11. CrowdStrike Global Outage**
+### 11. CrowdStrike Global Outage
 
 Perhaps the most widespread IT failure of the decade, in July 2024, a faulty configuration update from cybersecurity firm CrowdStrike disabled approximately 8.5 million Windows devices. The update, which was meant to keep systems safe, produced a boot loop that stopped planes, surgeries, and banks from working around the world.
 
