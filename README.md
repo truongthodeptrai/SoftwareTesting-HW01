@@ -424,17 +424,83 @@ Nice to Have:
 
 **AI Impact Analysis**
 
+# Software Defects 2022-2026
 
+### **1. Cloudflare software bug knocks thousands of websites offline—twice**
 
+In November 2025, Cloudflare, one of the most critical internet infrastructure providers, suffered a major global outage that knocked thousands of websites offline for a few hours. Platforms like X (formerly Twitter), ChatGPT, Spotify, Canva, Uber, and League of Legends all went down, leaving users frustrated and businesses scrambling.
 
+The cause? A software bug triggered by a configuration change. Even tools that track outages struggled since they rely on Cloudflare too. For context, Cloudflare helps manage and protect traffic for 20% of the web and handles trillions of requests daily. While the outage only lasted a few hours, the ripple effect was huge,highlighting just how much of the internet depends on a handful of core providers.
 
+Then in December 2025, Cloudflare struck again. A configuration change related to its Web Application Firewall (WAF) briefly disrupted traffic to services including LinkedIn, Zoom, and Shopify, prompting another round of user frustration and executive apologies. 
 
+For companies and users alike, it was a clear reminder: even the web’s giants aren’t immune to hiccups, and downtime anywhere in the chain can mean chaos everywhere.
 
+### **2. Starlink outage affects thousands of users worldwide**
 
+In July 2025, Starlink experienced a major service outage that left tens of thousands of users from Europe, the United States, Africa, Asia, and Australia without internet access for several hours. The disruption spread rapidly across multiple regions, with outage trackers showing a sharp spike in reports from both residential and business users who rely on Starlink as a primary or backup connectivity option.
 
+According to Starlink’s vice president of Starlink Engineering, Michael Nicolls, “The outage was due to failure of key internal software services that operate the core network.”
 
+The outage even prompted an apology from senior executives, including founder Elon Musk, who wrote he was “Sorry for the outage”.
 
+Even though the outage was relatively short, the impact was immediate. Many rural businesses and remote teams depend on satellite internet as their only reliable connection, meaning any downtime results in stalled operations, delayed communications, and lost productivity. For companies using Starlink as part of their redundancy strategy, the incident highlighted an uncomfortable reality—even cutting-edge satellite networks aren’t immune to cascading software issues.
 
+### **3. Taco Bell AI drive‑through system crashes because of edge case**
+
+In 2025, Taco Bell tried to speed up drive-through service with an AI voice ordering system but it didn’t exactly go as planned. Customers quickly ran into funny and frustrating glitches, from misheard orders to the AI misunderstanding simple requests.
+
+Things went viral when someone managed to order 18,000 cups of water as a prank and managed to crash the system. Clips of the AI getting orders wrong and frustrated customers spread across social media, forcing Taco Bell to pause and rethink its rollout.
+
+The takeaway? Edge cases matter in software testing. AI systems might handle 95% of normal interactions perfectly, but unusual or unexpected inputs, like prank orders or uncommon phrasing, can break the system. Taco Bell learned the hard way that manual testing and human oversight is still key. And for businesses experimenting with artificial intelligence, it’s a reminder that though tech can impress, it doesn’t always get it right. 
+
+Proper testing for edge cases helps companies catch problems before they reach real customers, saving time, money, and viral embarrassment. 
+
+### **4. McDonald’s AI hiring bot leaves applicants’ personal data exposed**
+
+In June 2025, McDonald’s faced a major software embarrassment when its AI‑powered hiring platform, known as McHire, which uses a chatbot named Olivia to screen job applicants, was found to have serious security flaws that could have exposed personal data from millions of applicants. Security researchers discovered that the admin interface was protected by laughably weak login credentials like “123456” for both username and password, allowing them to access backend systems without any authentication safeguards.
+
+This security flaw could have exposed personal data from more than 64 million job applicants, including names, emails, and chat histories.
+
+While there’s no evidence that anyone maliciously exploited the flaw, the system was patched quickly. McDonald’s emphasized that the third-party AI provider had overlooked basic security safeguards.
+
+This incident highlights an important lesson for any company deploying AI or automation—good intentions aren’t enough without strong security and quality controls. According to S&P Global Market Intelligence, the number of companies abandoning AI initiatives surged from 17% in 2024 to 42% in 2025, largely due to rising costs, data quality challenges, and security concerns. Cutting corners on basics like password policies, API protections, and authentication, especially in tools that collect personal data, can turn innovative systems into serious liabilities. 
+
+In a time where AI is increasingly integrated into core business functions, robust testing, security audits, and threat modeling are essential to prevent the dark side of automation from becoming a real‑world problem.
+
+### **5. Major cyberattack costs Marks and Spencer £300 million**
+
+In April 2025, British retail giant Marks & Spencer (M&S) was hit by a major cyberattack that brought online orders and some in-store systems to a standstill. Hackers, linked to the group Scattered Spider, gained access through an IT help desk and deployed ransomware, forcing M&S to pause online clothing and homeware sales for weeks.
+
+The financial hit was huge. The company warned the breach could slash up to £300 million from operating profits and its share price dipped as the disruption played out. Beyond lost sales, the attack exposed customer data and revealed just how vulnerable modern retail is to digital threats.
+
+According to Cybersecurity Ventures, global ransomware damage costs in 2025 are expected to reach $57 billion.
+
+The lesson learnt here is that even established retailers can be blindsided when IT systems fail. Strong cybersecurity, thorough testing, and careful monitoring of supplier networks aren’t just nice-to-haves—they’re essential for keeping business running and customers safe.
+
+### **6. Barclays IT glitch locks customers out of accounts on payday**
+
+Between January 31 and February 2, Barclays, one of the UK’s biggest banks, suffered a major IT glitch that left thousands of customers unable to access their accounts. The timing couldn’t have been worse—it coincided with payday and tax deadlines. People reported frozen balances, failed payments, and long queues at ATMs, leaving them unable to pay bills, buy groceries, or check their balances.
+
+The disruption was so widespread that Barclays paid £7.5 million in compensation. Many eligible customers received payouts of up to £100 each, depending on how they were impacted.
+
+The Barclays outage was more than an inconvenience. It showed how deeply people’s daily lives now depend on reliable software. When banking systems fail, it’s not just frustration—it’s missed payments, delayed plans, and real financial consequences. That’s why robust fintech and banking software testing, thorough monitoring, and strong contingency plans are essential for critical systems like financial services.
+
+### **7. Collins Aerospace cyberattack disrupts European air travel**
+
+In September 2025, a cyberattack on Collins Aerospace disrupted check‑in, boarding, and baggage systems at major European airports, including London Heathrow, Brussels, Berlin, and Dublin. Airlines had to abandon automated kiosks and revert to manual processes, leaving passengers stuck in long lines and causing flight delays and cancellations.
+
+The attack targeted Collins’ MUSE passenger processing software, used by airlines to manage electronic check‑ins and boarding. With the system offline, staff scrambled to keep operations moving, highlighting just how dependent modern air travel is on complex software systems.
+
+The incident involved ransomware, reminding the aviation industry that even critical infrastructure is vulnerable. For travelers, it was a frustrating few days of delays and chaos—and for airlines, a costly lesson in cybersecurity and system resilience.
+
+### **8. Shopify Cyber Monday outage**
+
+During Cyber Monday 2025, one of the busiest online shopping days of the year, Shopify, the e‑commerce platform behind millions of online stores, suffered a major outage that left thousands of merchants unable to access critical tools. Reports spiked mid‑morning as shop owners found they couldn’t log into their dashboards, point‑of‑sale systems, or admin panels just as sales activity was peaking. 
+
+Although storefronts and checkout pages generally continued working, the login and backend issues prevented merchants from updating prices, managing orders, adjusting inventory, or responding to customers—essentially freezing operations during a day that generated an estimated $14.2 billion in global online sales.
+
+Shopify traced the problem to a login authentication system failure and worked through the day to restore access. 
 
 
 
