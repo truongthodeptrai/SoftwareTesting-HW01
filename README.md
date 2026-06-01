@@ -528,8 +528,23 @@ A Distributed Denial-of-Service (DDoS) assault and a power outage in the area ca
 
 This "perfect storm" scenario disabled critical services for hours, affecting thousands of businesses that rely on the cloud platform for their daily operations and data storage.
 
+### 13. February 2024 – AT&T Nationwide Network Collapse
 
+There was a more than 12-hour network outage that disrupted 92 million phone calls on AT&T's network, including more than 25,000 emergency 911 calls. The problem was not a cyberattack, but a configuration mistake when expanding the network. Logistics, mobile payments, and first responders were impacted by the disruption, and the company settled with the FCC.
 
+It demonstrated that when change management processes are not strictly tested prior to implementation, even established infrastructure giants can be brought to their knees.
+
+### 14. January 2023 – FAA NOTAM System Outage
+
+The U.S. Federal Aviation Authority (FAA) suspended outbound flights in the nation, grounding thousands of flights following an accident by a contractor who removed files in the Notice to Air Missions (NOTAM) database. This system imparts crucial safety data to the pilots. It caused the cancellation of over 32,000 flights that cost airlines millions of dollars.
+
+The probe found that the same synchronization fault also corrupted the backup database, rendering the failover system useless when it was most needed.
+
+### 15. November 2022 – T-Mobile Data Breach
+
+Hackers were able to steal personal information of close to 50 million T-Mobile clients in one of the biggest security breaches. The point of entry was a stolen set of credentials of a third-party vendor. The hack revealed names, social security numbers, and driver's licenses.
+
+This incident was especially harmful because it revealed internal company information about a merger, which made it difficult to conduct business and destroyed consumer trust at a time when the company was trying to increase its market share.
 
 
 
