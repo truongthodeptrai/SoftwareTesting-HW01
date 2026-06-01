@@ -1,14 +1,12 @@
 # QA/QC Jobs Marketing 2026
 
-1. SMG Swiss Marketplace Group
+**1. SMG Swiss Marketplace Group**
 
 <img width="1920" height="971" alt="Screenshot_20260526_074541" src="https://github.com/user-attachments/assets/980da1b5-1683-4034-982e-ae0fe6ecc4ef" />
 
-Link
+**Link**: https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=02-mid-senior-qa-engineer-qa-qc-tester-smg-swiss-marketplace-group-0924
 
-https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=02-mid-senior-qa-engineer-qa-qc-tester-smg-swiss-marketplace-group-0924
-
-3. Job description
+**Job description**
 
 Welcome to SMG Vietnam!
 
@@ -20,7 +18,7 @@ We are looking for QA Engineers to help us shape the future of the Swiss automot
 
 Join our dynamic team, located in six countries (Switzerland, Serbia, Vietnam, France, Germany, and India), where creativity thrives. Together, we tackle challenges, celebrate successes, and keep learning and growing.
 
-4. Required skills
+**Required skills**
 
 - Fluency in English, both written and spoken.
 - A degree in IT, Computer Science, or a related technical field.
@@ -41,23 +39,19 @@ Nice-to-have qualifications:
 - Experience with mobile testing on iOS and/or Android.
 - Knowledge of security testing principles.
 
-5. Salary
+**Salary**: Depending on your skills
 
-Depending on the company
-
-6. AI Impact Analysis
+**AI Impact Analysis**
 
 "To do"
 
-# 2. Nakivo
+**2. Nakivo**
 
 <img width="1920" height="969" alt="Screenshot_20260526_080142" src="https://github.com/user-attachments/assets/b3d59695-9a9a-48c5-b789-ae5c64823e6a" />
 
-# Link
+**Link**: https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=automation-qa-engineer-qa-qc-tester-automation-test-nakivo-0115
 
-https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=automation-qa-engineer-qa-qc-tester-automation-test-nakivo-0115
-
-# Job description
+**Job description**
 
 RESPONSIBILITIES
 
@@ -70,7 +64,7 @@ troubleshoot issues
 - Contribute to the continuous improvement of the automation testing process
 - Design, create, and manage automation test cases using AI technologies
 
-# Required skills
+**Required skills**
 
 You properly are a potential candidate for this position, if you have:
 
@@ -85,8 +79,6 @@ You properly are a potential candidate for this position, if you have:
 - Strong communication and collaboration skills
 - Experience with AI-automation testing (e.g., Copilot, Cursor, Perplexity)
 
- 
-
 You will be a strong candidate if you have 
 
 - Experience in working with test automation frameworks (e.g. JUnit, TestNG, Selenium WebDriver)
@@ -96,21 +88,17 @@ You will be a strong candidate if you have
 - Experience with VMware, Hyper-V, Aws and Cloud storage
 - Hands-on experience working with AI technologies
 
-# Salary
+**Salary**: $1,100 - 1,500
 
-$1,100 - 1,500
+**AI Impact Analysis**
 
-# AI Impact Analysis
-
-# 3. DeliGroup
+**3. DeliGroup**
 
 <img width="1920" height="969" alt="Screenshot_20260526_080225" src="https://github.com/user-attachments/assets/95332302-9098-4bae-a1b3-f2670e805cd9" />
 
-# Link
+**Link**: https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=manual-tester-qa-qc-deligroup-0232
 
-https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=manual-tester-qa-qc-deligroup-0232
-
-# Job description
+**Job description**
 
 - Participate in software development activities following Agile/Scrum methodology. 
 - Analyze business requirements and identify unclear or inconsistent specifications. 
@@ -122,24 +110,24 @@ https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8
 - Prepare testing documents, test reports, and QA-related deliverables. 
 - Research new testing technologies, tools, and best practices to improve QA processes.
 
-# Required skills
+**Required skills**
 
-- Requirements:
-* At least 2 years of experience as a Manual Tester / QC Engineer. 
-* Strong experience in creating test plans and designing test cases. 
-* Experience in testing Web Applications and Mobile Applications (iOS/Android). 
-* Experience with API Testing using Postman, Swagger, or similar tools. 
-* Experience in SQL testing and database validation. 
-* Familiar with Agile/Scrum development processes. 
-* Experience using Jira, Trello, TestRail, or similar project management/testing tools. 
-* Strong analytical thinking and attention to detail. 
-* Good understanding of software testing methodologies and QA processes. 
-* Good written English communication skills. 
-* Able to work flexibly according to project schedules when needed.
+Requirements:
+- At least 2 years of experience as a Manual Tester / QC Engineer. 
+- Strong experience in creating test plans and designing test cases. 
+- Experience in testing Web Applications and Mobile Applications (iOS/Android). 
+- Experience with API Testing using Postman, Swagger, or similar tools. 
+- Experience in SQL testing and database validation. 
+- Familiar with Agile/Scrum development processes. 
+- Experience using Jira, Trello, TestRail, or similar project management/testing tools. 
+- Strong analytical thinking and attention to detail. 
+- Good understanding of software testing methodologies and QA processes. 
+- Good written English communication skills. 
+- Able to work flexibly according to project schedules when needed.
 
-- Preffered skills:
-* Experience in Logistics, E-commerce, Booking, Delivery, or Transportation systems. 
-* Experience testing real-world business workflows such as: 
+Preffered skills:
+- Experience in Logistics, E-commerce, Booking, Delivery, or Transportation systems. 
+- Experience testing real-world business workflows such as: 
   - Order Management 
   - Booking Flow 
   - Payment Flow 
@@ -147,25 +135,21 @@ https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8
   - Push Notifications 
   - Inventory Management 
 
-* Experience in cross-browser and multi-device testing. 
-* Basic knowledge of Automation Testing is a plus. 
-* Experience with Mobile App testing tools is an advantage. 
+- Experience in cross-browser and multi-device testing. 
+- Basic knowledge of Automation Testing is a plus. 
+- Experience with Mobile App testing tools is an advantage. 
   
-# Salary
+**Salary**: Depending on your skills
 
-Depending on your skills
+**AI Impact Analysis**
 
-# AI Impact Analysis
-
-# 4. PNJ
+**4. PNJ**
 
 <img width="1920" height="970" alt="Screenshot_20260526_080235" src="https://github.com/user-attachments/assets/dfdcee43-d3f0-4bf6-b9e6-aec1df2f61fc" />
 
-# Link
+**Link**: https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=senior-qc-automation-tester-qa-qc-pnj-5542
 
-https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=senior-qc-automation-tester-qa-qc-pnj-5542
-
-# Job description
+**Job description**
 
 - Kiểm soát chất lượng truyền thống và AI:
   - Phân tích và review các đặc tả yêu cầu chức năng
@@ -195,7 +179,7 @@ https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8
   - Tham gia các khóa học và hoạt động nâng cao kỹ năng
   - Chia sẻ kiến thức với đồng nghiệp
  
-# Required skills
+**Required skills**
 
 Bằng cấp: Cử Nhân trở lên các chuyên ngành CNTT & Phần mềm
 
@@ -210,27 +194,23 @@ Must-have:
 - Giao tiếp tốt, phối hợp hiệu quả với các team liên quan.
 - Có khả năng phân tích các rủi ro hệ thống
 
-# Salary
+**Salary**: $1,000 - 1,500
 
-$1,000 - 1,500
-
-# AI Impact Analysis
+**AI Impact Analysis**
 
 To-do
 
-# 5. QC Engineer
+**5. QC Engineer**
 
 <img width="1920" height="972" alt="Screenshot_20260526_080251" src="https://github.com/user-attachments/assets/1c1690b9-355b-44f2-abe5-ea99f4f098e7" />
 
-# Link
+**Link**: https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=qc-engineer-tester-qa-qc-for-web-up-to-1500-evolus-planv-5225
 
-https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=qc-engineer-tester-qa-qc-for-web-up-to-1500-evolus-planv-5225
-
-# Job description
+**Job description**
 
 Participate in the development of exciting new server and client applications for sports team management that already have millions of users in the USA, UK and the EC. Work closely with top athletes and coaches from NBC Sports to create the next generation of applications to make sports teams perform far better. While NBC will help you better understand the details of competitive sports, our highly experienced engineering team will help you significantly improve your ability to develop world class enterprise applications. Your job will be to "own" a piece of the application, the size will depend on your experience. You will work closely with our USA based customer, our UI design, our senior technical team, QA, and the deployment team to do your job. We work at "Start-up Company" speed and you will learn and grow your skills very quickly.
 
-# Required skills
+**Required skills**
 
 Technical requirements:
 - Firm knowledge in writing and executing test cases and test scripts
@@ -253,17 +233,15 @@ Behavioral requirements:
 - Love to exceed customer expectations
 - Self-motivated and self directed.
 
-# AI Impact Analysis
+**AI Impact Analysis**
 
-# 6. AB Bank
+**6. AB Bank**
 
 <img width="1920" height="973" alt="Screenshot_20260526_080304" src="https://github.com/user-attachments/assets/b7adcd2a-8eea-4063-8336-c30aaebe9b28" />
 
-# Link
+**Link**: https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=automation-tester-qa-qc-abbank-0039
 
-https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=automation-tester-qa-qc-abbank-0039
-
-# Job description
+**Job description**
 
 - Xây dựng dụng cụ cho automation test và viết script cho các api/rest và application test.
 - Định nghĩa, phát triển, triển khai và duy trì script cho automation test
@@ -276,7 +254,7 @@ https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8
 - Tham gia thực hiện Manual test khi cần thiết.
 - Luôn cập nhật các xu hướng và tiến bộ của ngành về các công cụ và kỹ thuật về automation testing.
 
-# Required skills
+**Required skills**
 
 - Trình độ Cử nhân trở lên chuyên ngành về Công nghệ thông tin, Khoa học máy tính hoặc các chuyên ngành liên quan.
 - Có trên 02 năm kinh nghiệm trong automation testing cho api/rest hoặc mobile hoặc web
@@ -289,19 +267,17 @@ https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8
 - Cẩn thận, tỉ mỉ, cần cù, nhanh nhẹn, có khả năng làm việc độc lập hoặc nhóm với cường độ cao.
 - Tinh thần không ngại thay đổi tool/ framework/ ngôn ngữ
 
-# Salary
+**Salary**: Depending on your skills
 
-# AI Impact Analysis
+**AI Impact Analysis**
 
-# 7. Bosch Global Software Technologies Company
+**7. Bosch Global Software Technologies Company**
 
 <img width="1920" height="970" alt="Screenshot_20260526_080544" src="https://github.com/user-attachments/assets/8747e2e2-ad2b-47ee-b927-31c706a0eb82" />
 
-# Link
+**Link**: https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=senior-qa-qc-automation-tester-playwright-python-bosch-global-software-technologies-company-limited-3146
 
-https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=senior-qa-qc-automation-tester-playwright-python-bosch-global-software-technologies-company-limited-3146
-
-# Job description
+**Job description**
 
 This position will be employed through Bosch’s external vendor under an initial one-year contract. Contract renewal is highly possible and will be considered based on performance and business needs.
 
@@ -313,7 +289,7 @@ Our global engineering team is building the next generation of solutions, and ro
 
 We’re seeking a Senior Automation Tester (Playwright/ Python) who combines deep technical expertise with a relentless pursuit of excellence. This role demands a strong understanding of complex software architectures, experience in leading automation initiatives, and responsibility for designing and implementing comprehensive test frameworks.
 
-# Required skills
+**Required skills**
 
 - 5+ years of experience in software testing, with strong focus on automation testing
 - Hands-on experience with Playwright and Python
@@ -321,19 +297,17 @@ We’re seeking a Senior Automation Tester (Playwright/ Python) who combines dee
 - Good English communication skills
 - Strong analytical and problem-solving mindset
 
-# Salary
+**Salary*8
 
-# AI Impact Analysis
+**AI Impact Analysis**
 
-# 8. FPT Software
+**8. FPT Software**
 
 <img width="1920" height="967" alt="Screenshot_20260526_080605" src="https://github.com/user-attachments/assets/e3ec41c8-80e2-461f-a040-809f37eb5a16" />
 
-# Link
+**Link**: https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=process-quality-assurance-pqa-qa-qc-fpt-software-3809
 
-https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=process-quality-assurance-pqa-qa-qc-fpt-software-3809
-
-# Job description
+**Job description**
 
 ABOUT FPT SOFTWARE
 
@@ -350,7 +324,7 @@ RESPONSIBILITIES
 - Participate in product quality assessment and review quality reports before sending to customers
 - Participate in quality assurance activities (Final inspection, check quality gate) of project products before delivering to customers
 
-# Required skills
+**Required skills**
 
 - Ability to analyze data, synthesize and report.
 - Have knowledge of the process.
@@ -362,19 +336,17 @@ RESPONSIBILITIES
 - Foreign language: minimum IELTS 7.0 (or equivalent TOEIC), minimum JP N2.
 - Graduated from IT or foreign language university.
 
-# Salary
+**Salary**
 
-# AI Impact Analysis
+**AI Impact Analysis**
 
-# 9. Pizza Hut Digital & Technology
+**9. Pizza Hut Digital & Technology**
 
 <img width="1920" height="972" alt="Screenshot_20260526_080639" src="https://github.com/user-attachments/assets/7ca807b9-17ca-4bbf-aeb1-c00e61b75e20" />
 
-# Link
+**Link**: https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=senior-lead-qa-engineer-qe-qc-automation-pizza-hut-digital-technology-3057
 
-https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=senior-lead-qa-engineer-qe-qc-automation-pizza-hut-digital-technology-3057
-
-# Job description
+**Job description**
 
 We are seeking an experienced Test Lead to own and drive the testing strategy and quality practices for the Byte by Yum! Commerce Platform. In this role, you will lead the testing discipline across globally distributed engineering teams and ensure our e-commerce platform consistently delivers reliable, scalable, and high-quality digital experiences to millions of customers worldwide.
 
@@ -393,7 +365,7 @@ RESPONSIBILITIES:
 - Continuously evaluate and improve testing tools, frameworks, and processes to support platform growth and scalability.
 - Lead defect management processes, ensuring issues are properly prioritized, tracked, and resolved.
 
-# Required skills
+**Required skills**
 
 - Bachelor's degree in computer science, or related technical field.
 - 8+ years of experience in software quality assurance, with at least 3 years in a senior test role supporting large-scale e-commerce or high-volume - consumer platforms.
@@ -412,19 +384,17 @@ Nice to Have:
 - ISTQB or other relevant QA certification.
 - Knowledge of performance or load testing tools.
 
-# Salary
+**Salary**: Depending on your skills
 
-# AI Impact Analysis
+**AI Impact Analysis**
 
-# 10. Netcompany
+**10. Netcompany**
 
 <img width="1920" height="972" alt="Screenshot_20260526_080701" src="https://github.com/user-attachments/assets/ca0927c5-9f5d-49fa-b2ed-e5435d92a6e0" />
 
-# Link
+**Link**: https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=manual-tester-qa-qc-english-netcompany-1931
 
-https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8B8f6BwXGST0dMckfqk2N7QComEC0_WLu3kYKBoC2_sQAvD_BwE&utm_campaign=gsn_brand_hcm_mc&utm_content=itviec_ad2&utm_medium=cpc&utm_source=google&utm_term=itviec&job_selected=manual-tester-qa-qc-english-netcompany-1931
-
-# Job description
+**Job description**
 
 - Analyze and understand business and technical requirements and work with clients across different domains and industries
 - Collaborate in project teams to test developed applications in a structured and successful way
@@ -436,7 +406,7 @@ https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8
 - Plan and organize your own work and accurately report issues and progress in a timely manner
 - Identify areas for own personal development
 
-# Required skills
+**Required skills**
 
 - Bachelor’s or Master’s degree within a relevant IT specialization
 - Good English skills both in writing and verbally
@@ -448,9 +418,9 @@ https://itviec.com/it-jobs/qa-qc?gclid=CjwKCAjw5s_QBhAdEiwADD_gBvf3IDHJahHplXep8
 - Effectively estimate work and produce deliverables on time
 - ISTQB certificate is a plus, but not required
 
-# Salary
+**Salary**: Depending on your skills
 
-# AI Impact Analysis
+**AI Impact Analysis**
 
 
 
