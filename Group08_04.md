@@ -16,4 +16,4 @@ Evidence:
 
 ## AI Usage Declaration
 In this week, our group uses AI tools for instructions of downloading and setting up DbUnit, Database Rider; creating databases by using Tonic.ai.
-Not only that, AI tools are also used for corrections around the EShop test scenarios.
+Not only that, AI tools are also used for corrections around the EShop test scenarios and formats of reports.
