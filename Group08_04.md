@@ -1,7 +1,7 @@
 ## Weekly report
-Group ID: 08
-Project Name: T8 Database Testing
-Date range: 2026/06/29-2026/07/04
+- Group ID: 08
+- Project Name: T8 Database Testing
+- Date range: 2026/06/29-2026/07/04
 
 ## Task Completed This Week
 Nguyễn Chí Đức - 23127172
