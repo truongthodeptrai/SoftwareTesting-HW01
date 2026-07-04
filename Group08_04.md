@@ -12,7 +12,7 @@ Nguyễn Phan Hùng Linh - 23127081
 - Task 2 - Run an end-to-end scenario in eshop (which is importing csv files on Admin)
 
 Evidence:
-None
+- "Đức - Linh - Thọ: tìm hiểu 3 công cụ trên, luyện tập sử dụng và chạy 1 tình huống end-to-end trên eshop"
 
 ## AI Usage Declaration
 In this week, our group uses AI tools for instructions of downloading and setting up DbUnit, Database Rider; creating databases by using Tonic.ai.
