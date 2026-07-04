@@ -11,6 +11,9 @@ Nguyễn Phan Hùng Linh - 23127081
 Task 1 - Deep study (about the tools our group using aka DbUnit, Tonic.ai and Database Rider) and hands-on practice
 Task 2 - Run an end-to-end scenario in eshop (which is importing csv files on Admin)
 
+Evidence:
+None
+
 ## AI Usage Declaration
 In this week, our group uses AI tools for instructions of downloading and setting up DbUnit, Database Rider; creating databases by using Tonic.ai.
 Not only that, AI tools are also used for corrections around the EShop test scenarios.
