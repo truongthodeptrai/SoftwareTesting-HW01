@@ -5,11 +5,11 @@ Date range: 2026/06/29-2026/07/04
 
 ## Task Completed This Week
 Nguyễn Chí Đức - 23127172
-Task 1 - Deep study (about the tools our group using aka DbUnit, Tonic.ai and Database Rider) and hands-on practice
+- Task 1 - Deep study (about the tools our group using aka DbUnit, Tonic.ai and Database Rider) and hands-on practice
 
 Nguyễn Phan Hùng Linh - 23127081
-Task 1 - Deep study (about the tools our group using aka DbUnit, Tonic.ai and Database Rider) and hands-on practice
-Task 2 - Run an end-to-end scenario in eshop (which is importing csv files on Admin)
+- Task 1 - Deep study (about the tools our group using aka DbUnit, Tonic.ai and Database Rider) and hands-on practice
+- Task 2 - Run an end-to-end scenario in eshop (which is importing csv files on Admin)
 
 Evidence:
 None
